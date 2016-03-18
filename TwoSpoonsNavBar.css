@@ -1,10 +1,41 @@
+.logo{
+  background: url(twospoons_logo.png);
+  width: 200px;
+  height: 140px;
+  display: block;
+}
+
 .NavBar {
+    margin: 20px;
+    padding: 20px;
+    width: 100%;
+    height: 20%;
+    word-spacing: 30px;
+    text-align: center;
+}
+
+
+.NavBar li {
+  display: inline-block;
+}
+
+.NavBar li a {
+  color: gray;
+  font-family: "Times New Roman";
+  list-style-type: none;
+  letter-spacing: 4px;
+  font-size: 40px;
+  text-decoration: none;
+
+}
+
+.SocialMediaBar {
     list-style-type: none;
     margin: 40px;
     padding: 20px;
-    width: 50%;
+    width: 200px;
     height: 50%;
-    background-color: #f1f1f1;
+    background-color: #736464;
     position: fixed; 
     font-family: "Times New Roman";
     font-size: 20px;
@@ -14,6 +45,10 @@
     
 }
 
+.SocialMediaBar li {
+  display: inline-block;
+}
+
 .button {
     font-family: "Times New Roman";
     font-size: 20px;
@@ -21,8 +56,8 @@
     color: white;
     text-align: center;
     text-decoration: none;
-  /*  height: 40px;
-    width: 30px;*/
+    height: 40px;
+    width: 30px;
     border-radius: 40%;
 
 }
