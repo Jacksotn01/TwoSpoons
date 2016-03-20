@@ -80,5 +80,25 @@
   border-radius: 600px;
 }
 
+.top {
+  font-family: "Times New Roman";
+  text-align: center;
+  font-size: 40px;
+  color: #757575;
+  padding-top: 150px;
+  margin: 50px;
+}
 
+.top a {
+  text-decoration: none;
+  color: #757575;
+  border-style: solid;
+  border-width: thin;
+  border-color: black;
+}
+
+.top a:hover {
+  color: #ffad33;
+  text-decoration: none;
+}
 
