@@ -92,13 +92,15 @@
 .top a {
   text-decoration: none;
   color: #757575;
-  border-style: solid;
+ /* border-style: solid;
   border-width: thin;
-  border-color: black;
+  border-color: black;*/
+  letter-spacing: 3px;
 }
 
 .top a:hover {
   color: #ffad33;
   text-decoration: none;
+  font-size: 50px;
 }
 

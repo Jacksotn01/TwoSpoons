@@ -36,7 +36,7 @@
     height: 350%;
     background-color: gray;
     position: fixed; 
-    font-family: "Times New Roman";
+    /*font-family: "Times New Roman";*/
     font-size: 20px;
     transform: rotate(90deg);
     transform-origin: left top 0;
@@ -55,6 +55,13 @@
 .SocialMediaBar a {
   text-decoration: none;
   color: white;
+  letter-spacing: 2px;
+  font-family: "Times New Roman";
+}
+
+.SocialMediaBar a:hover {
+  text-decoration: none;
+  color: orange;
 }
 
 .facebook {
