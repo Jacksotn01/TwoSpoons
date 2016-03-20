@@ -9,15 +9,22 @@
 .product_img{
 	float: left;
 	margin: 50, auto;
-	padding: 10px;
+	padding: 20px;
+	
 }
 
-.product_img p{
+.product_img a{
+	color: #736464;
+	text-decoration: none;
 	text-align: center;
+	font-family: times new roman, verdana;
+	font-size: 18px;
+	text-decoration: none;
+	letter-spacing: 2px;
 }
 
 .product_img img{
 	height: 250px;
 	width: 230px;
-
+	
 }
