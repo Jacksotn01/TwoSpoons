@@ -21,6 +21,64 @@
   border-style: solid;
   border-color: black;
   letter-spacing: 4px;
-  margin: 10px;
+  margin: 20px;
   padding: 10px;
 }
+
+.TwoSpoonsAbout {
+  text-align: center;
+  font-size: 30px;
+  font-family: "Times New Roman";
+  color: #757575;
+  letter-spacing: 2px;
+  margin: 10px;
+  padding-top: 220px;
+  padding-bottom: 220px;
+}
+
+.TwoSpoonsAbout:hover {
+  color: #ffad33;
+}
+
+.bootstrap {
+  width: 1500px;
+  text-align: center;
+}
+
+.abouttiffany {
+  color: #757575;
+  border-style: solid;
+  border-color: black;
+  border-width: thin;
+  padding: 10px;
+  font-size: 25px;
+  font-family: "Times New Roman";
+  font-style: italic;
+  letter-spacing: 2px;
+  /*margin-left: 5px ;*/
+
+
+}
+
+.aboutashley {
+  color: #757575;
+  padding: 10px;
+  font-size: 25px;
+  /*margin: 5px ;*/
+  border-style: solid;
+  border-color: black;
+  border-width: thin;
+  font-family: "Times New Roman";
+  font-style: italic;
+  letter-spacing: 2px;
+}
+
+.tiffanyphoto {
+  width: 400px;
+  height: 300px;
+  text-align: left;
+  border-radius: 600px;
+}
+
+
+
