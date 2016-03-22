@@ -26,15 +26,17 @@
     list-style-type: none;
     margin: 40px;
     padding: 20px;
-    width: 200px;
-    height: 50%;
-    background-color: #736464;
+    width: 700px;
+    height: 100%;
+    background-color: #ffad33;
     position: fixed; 
     font-family: "Times New Roman";
     font-size: 20px;
     transform: rotate(90deg);
     transform-origin: left top 0;
     float: left;
+    color: gray;
+    opacity: .7;
     
 }
 
@@ -42,6 +44,7 @@
   display: inline-block;
 }
 
+<<<<<<< HEAD
 .button {
     font-family: "Times New Roman";
     font-size: 20px;
@@ -54,3 +57,43 @@
     border-radius: 40%;
 
 }*/
+
+
+
+footer{
+  width: 100%;
+  margin-top: 40px;
+  height: 50px;
+  background-color: white;
+  clear: both;
+  border-top: 2px solid #736464;
+
+  }
+
+.footer nav{
+  float:right;
+}
+
+.footer nav ul{
+
+}
+
+.footer nav ul li{
+  display: inline-block;
+  margin-top: 15px;
+  list-style-type: none;
+  text-indent: 15px;
+
+}
+
+.footer nav ul li a{
+  font-family: times new roman;
+  font-size: 20px;
+  color: #736464;
+  text-decoration: none;
+  letter-spacing: 4px;
+}
+
+.footer nav ul li a:hover{
+  color: orange;
+}
