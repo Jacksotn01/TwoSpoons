@@ -1,0 +1,85 @@
+.logo{
+  background: url(twospoons_logo.png);
+  width: 200px;
+  height: 140px;
+  display: block;
+}
+
+.heading2 {
+  text-align: center;
+  font-size: 40px;
+  font-family: "Times New Roman";
+  color: #757575;
+  /*border-style: solid;
+  border-color: black;*/
+  letter-spacing: 4px;
+  margin: 20px;
+  padding: 10px;
+}
+
+.heading2:hover {
+  color: #ffad33;
+  font-size: 50px;
+  letter-spacing: 3px;
+
+}
+
+.Breakfast {
+  text-align: left;
+  font-size: 40px;
+  font-family: "Times New Roman";
+  color: #757575;
+  letter-spacing: 4px;
+  margin: 20px;
+  padding: 70px;
+}
+
+#reciepe {
+  text-align: center;
+  font-size: 30px;
+  font-family: "Times New Roman";
+  color: #757575;
+  letter-spacing: 4px;
+  margin: 20px;
+  padding: 70px;
+
+}
+
+.product_img{
+  float: left;
+  margin: 50, auto;
+  padding: 30px;
+}
+
+.product_img img{
+  height: 350px;
+  width: 330px;
+
+}
+
+.Dinner {
+  text-align: left;
+  font-size: 40px;
+  font-family: "Times New Roman";
+  color: #757575;
+  letter-spacing: 4px;
+  margin: 20px;
+  padding: 70px;
+  float: left;
+  display: inline-block;
+}
+
+.dinner_img {
+  float: left;
+  margin: 50, auto;
+  padding: 20px;
+  /*display: inline-block;*/
+}
+
+.dinner_img img{
+  height: 350px;
+  width: 330px;
+  display: inline-block;
+  float: left;
+
+}

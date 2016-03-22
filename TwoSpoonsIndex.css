@@ -18,8 +18,8 @@
   font-size: 40px;
   font-family: "Times New Roman";
   color: #757575;
-  border-style: solid;
-  border-color: black;
+/*  border-style: solid;
+  border-color: black;*/
   letter-spacing: 4px;
   margin: 20px;
   padding: 10px;
@@ -47,9 +47,9 @@
 
 .abouttiffany {
   color: #757575;
-  border-style: solid;
+/*  border-style: solid;
   border-color: black;
-  border-width: thin;
+  border-width: thin;*/
   padding: 10px;
   font-size: 25px;
   font-family: "Times New Roman";
@@ -65,9 +65,9 @@
   padding: 10px;
   font-size: 25px;
   /*margin: 5px ;*/
-  border-style: solid;
+ /* border-style: solid;
   border-color: black;
-  border-width: thin;
+  border-width: thin;*/
   font-family: "Times New Roman";
   font-style: italic;
   letter-spacing: 2px;
@@ -80,5 +80,27 @@
   border-radius: 600px;
 }
 
+.top {
+  font-family: "Times New Roman";
+  text-align: center;
+  font-size: 40px;
+  color: #757575;
+  padding-top: 150px;
+  margin: 50px;
+}
 
+.top a {
+  text-decoration: none;
+  color: #757575;
+ /* border-style: solid;
+  border-width: thin;
+  border-color: black;*/
+  letter-spacing: 3px;
+}
+
+.top a:hover {
+  color: #ffad33;
+  text-decoration: none;
+  font-size: 50px;
+}
 

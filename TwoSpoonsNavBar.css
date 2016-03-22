@@ -22,29 +22,13 @@
 
 }
 
-/*.SocialMediaBar {
-    list-style-type: none;
-    margin: 40px;
-    padding: 20px;
-    width: 700px;
-    height: 100%;
-    background-color: #ffad33;
-    position: fixed; 
-    font-family: "Times New Roman";
-    font-size: 20px;
-    transform: rotate(90deg);
-    transform-origin: left top 0;
-    float: left;
-    color: gray;
-    opacity: .7;
-    
-}
 
 .SocialMediaBar li {
   display: inline-block;
+  /*list-style-type: none;*/
 }
 
-<<<<<<< HEAD
+
 .button {
     font-family: "Times New Roman";
     font-size: 20px;
@@ -87,7 +71,7 @@ footer{
 }
 
 .footer nav ul li a{
-  font-family: times new roman;
+  font-family:  "Times New Roman";
   font-size: 20px;
   color: #736464;
   text-decoration: none;
@@ -96,4 +80,26 @@ footer{
 
 .footer nav ul li a:hover{
   color: orange;
+}
+
+.SocialMediaBar a {
+  text-decoration: none;
+  color: white;
+  letter-spacing: 2px;
+  font-family: "Times New Roman";
+}
+
+.SocialMediaBar a:hover {
+  text-decoration: none;
+  color: orange;
+}
+
+.facebook {
+  width: 30px;
+  height: 30px;
+}
+
+.twitter {
+  width: 20px;
+  height: 30px;
 }
