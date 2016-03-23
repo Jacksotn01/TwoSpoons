@@ -10,6 +10,21 @@
 	margin: 0 auto;
 }
 
+.text{
+	width: 400px;
+	margin-left: 100px;
+
+}
+
+.text p{
+	font-family: "times new roman";
+	font-size: 25px;
+	color: #736464;
+	letter-spacing: 3px;
+
+
+}
+
 .ProImg{
 	float: right;
 	height: 400px;
@@ -17,22 +32,7 @@
 
 }
 
-.ProImg img{
-	padding-right: 60px;
-	padding-top: 40px;
-}
-
-.text{
-	padding-left:30px;
-	padding-top: 40px;
-	text-align: left;
-	font-family: times new roman;
-	font-size: 25px;
-	color: #736464;
-
-}
-
-.text p{
-
-
+.product_img img span a:hover{
+	text-transform: 50px;
+	color: orange;
 }
